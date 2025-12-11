@@ -17,7 +17,8 @@ Interactive visuals for business decision-making
 The dashboard showcases trends, KPIs, comparative views, deep insights, and drill-down analysis.
 
 📸 Dashboard Screenshots
-![Dashboard Overview](Screenshot 2025-12-11 232003.png)
+![Dashboard Overview](Insurance-Risk-Claims-Analysis-Dashboard
+/Screenshot 2025-12-11 232003.png)
 
 🛠 Tools & Technologies
 Tool	Purpose
